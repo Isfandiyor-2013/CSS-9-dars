@@ -1,0 +1,20 @@
+.wrap{
+    width: 1200px;
+    margin: 200px 300px;
+}
+.box{
+    margin: 0;
+    padding: 0;
+}
+.box-item{
+    display: inline-block;
+    margin: 0 50px;
+}
+.yozuv{
+    font-size: 30px;
+}
+.yozuv-2{
+    background-image: url(../rasmlar/06.jpg);
+    background-repeat: no-repeat;
+    background-position: 900px 500px;
+}
